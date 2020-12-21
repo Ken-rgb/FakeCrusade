@@ -1,0 +1,27 @@
+﻿  TextButton.cpp
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(47): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\src\kenster\textbutton.cpp(53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Window.cpp
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\include\kenster\dataholder.hpp(16): warning C4227: anachronism used: qualifiers on reference are ignored
+  c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\include\kenster\dataholder.hpp(34): note: see reference to class template instantiation 'kenster::Dataholder<DATATYPE>' being compiled
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\include\kenster\dataholder.hpp(21): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\include\kenster\dataholder.inl(12): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\kento\documents\visual studio 2017\visualstudioprojects\sfml\fakecrusade\fakecrusade\include\kenster\dataholder.inl(33): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+  FakeCrusade.vcxproj -> C:\Users\kento\Documents\Visual Studio 2017\VisualStudioProjects\sfml\FakeCrusade\Debug\FakeCrusade.exe
