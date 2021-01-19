@@ -1,7 +1,7 @@
 # FakeCrusade
 Game written in cpp and sfml
 
-Currently try to integrate websocket
+Currently trying integrating websocket
 
 ## Set up 
 
