@@ -1,5 +1,7 @@
 # FakeCrusade
-Game written in cpp using websockets and sfml
+Game written in cpp and sfml
+
+Currently try to integrate websocket
 
 ## Set up 
 
